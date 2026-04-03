@@ -1,10 +1,10 @@
 ## 👋 Hi there, I'm @Sourabhgupta-11 
 
-- 👀 I'm interested in Web development
+- 👀 I'm interested in Web development and Blockchain development 
 
-- 🔭 I’m currently working on college attendance management system
+- 🔭 I have worked on college attendance management system
 
-- 🌱 I’m currently learning MERN stack and cyber security
+- 🌱 I’m currently learning MERN stack and Blockchain (Ethereum | Solana)
 
 - 🤔 I’m looking to collaborate on real-life web development projects
 
