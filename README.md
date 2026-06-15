@@ -1,15 +1,23 @@
-## 👋 Hi there, I'm @Sourabhgupta-11 
+# 👋 Hi, I'm Sourabh Gupta
 
-- 👀 I'm interested in Web development and Blockchain development 
+💻 MERN Stack & Blockchain Developer
 
-- 🔭 I have worked on college attendance management system
+- 👀 Interested in **Web Development** and **Blockchain Development**
 
-- 🌱 I’m currently learning MERN stack and Blockchain (Ethereum | Solana)
-
-- 🤔 I’m looking to collaborate on real-life web development projects
-
-- 📫 How to reach me: sourabhgupta.1331@gmail.com
-
-- 😄 Pronouns: he/him
+- 🌱 Currently learning **MERN Stack**, **Ethereum**, and **Solana**
+  
+- 📌 Previously built a **College Attendance Management System**
+  
+- 🚀 Currently working on **FinOS** and **Stablecoin Ecosystem**
+  
+- 🔥 Exploring smart contracts, decentralized applications, and scalable backend architectures
+  
+- 🤝 Open to collaborating on real-world projects
+  
+- 🛠️ Tech Stack: **React, Node.js, Express, NestJS, MongoDB, PostgreSQL, Prisma, Docker, Solidity**
+  
+- 📫 Reach me at: **sourabhgupta.1331@gmail.com**
+  
+- 😄 Pronouns: **he/him**
 
 
