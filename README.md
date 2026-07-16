@@ -4,17 +4,19 @@
 
 - 👀 Interested in **Web Development** and **Blockchain Development**
 
-- 🌱 Currently learning **MERN Stack**, **Ethereum**, and **Solana**
+- 🌱 Currently learning **MERN Stack**, **Ethereum** and **Solana**
   
 - 📌 Previously built a **College Attendance Management System**
   
-- 🚀 Currently working on **FinOS** and **Stablecoin Ecosystem**
+- 🚀 Building **FinOS (AI-Powered Financial Management System)**
+  
+- 🚀 Building **Stablecoin Ecosystem (Multi-Chain Stablecoin, Asset Tokenization & Cross-Chain Token Bridging)**
   
 - 🔥 Exploring smart contracts, decentralized applications, and scalable backend architectures
   
 - 🤝 Open to collaborating on real-world projects
   
-- 🛠️ Tech Stack: **React, Node.js, Express, NestJS, MongoDB, PostgreSQL, Prisma, Docker, Solidity**
+- 🛠️ Tech Stack: **ReactJS, Node.js, Express, MongoDB, PostgreSQL, Docker, Solidity, Foundry**
   
 - 📫 Reach me at: **sourabhgupta.1331@gmail.com**
   
